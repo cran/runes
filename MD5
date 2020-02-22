@@ -1,0 +1,11 @@
+ac5a2404d4e7b66460596584fb3629ba *DESCRIPTION
+724470d86dd4f773d9ab81b4653f2963 *LICENSE
+254124e8150d052758b3d6c85e311c0b *NAMESPACE
+81794efe03c11dbb2704b05f81b626fd *NEWS.md
+d9a59ddd7e0e4fcb22f6d519620e966f *R/runes.R
+025556bdd0049e4967091a079bc0caed *R/runes_table.R
+c19b40db44ac8e0ef0fd30698d46f13c *man/runes.Rd
+f3f17e617d85f826f56a293db6ed9c74 *man/runes_table.Rd
+e261cdd3b7a23518eaf25f95914a8037 *tests/testthat.R
+5907dfb6545b2d787fbc8967f63b8b1b *tests/testthat/test-runes.R
+8a2c0e145b253c9dd023c4d6a440fae5 *tests/testthat/test-runes_table.R
